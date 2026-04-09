@@ -1,0 +1,36 @@
+{
+  "name": "tala",
+  "displayName": "Tala - Read-Only Lock",
+  "description": "Adds a lock icon to the status bar to quickly toggle VS Code into read-only mode.",
+  "version": "0.0.1",
+  "publisher": "your-publisher-name",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "keywords": [
+    "read-only",
+    "lock",
+    "readonly",
+    "protect"
+  ],
+  "activationEvents": [
+    "onStartupFinished"
+  ],
+  "main": "./src/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "lock.toggleReadOnly",
+        "title": "Lock: Toggle Read-Only Mode"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/tala"
+  },
+  "license": "MIT"
+}
