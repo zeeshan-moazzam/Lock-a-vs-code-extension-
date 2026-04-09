@@ -1,6 +1,6 @@
 {
-  "name": "tala",
-  "displayName": "Tala - Read-Only Lock",
+  "name": "Lock",
+  "displayName": "Lock - Read-Only Lock",
   "description": "Adds a lock icon to the status bar to quickly toggle VS Code into read-only mode.",
   "version": "0.0.1",
   "publisher": "your-publisher-name",
@@ -30,7 +30,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/tala"
+    "url": "https://github.com/your-username/Lock"
   },
   "license": "MIT"
 }
