@@ -67,7 +67,7 @@ Then I went back to VS Code and realized: *it doesn't have this.*
 
 There's no quick toggle, no status bar button, no visual indicator. If you want read-only mode in VS Code, you're digging through settings or relying on OS-level file permissions. That's too much friction for something so simple.
 
-So I built **Lock** — bringing that one feature from IntelliJ IDEA that VS Code was missing.
+So I built **Lock Toggle** — bringing that one feature from IntelliJ IDEA that VS Code was missing.
 
 ---
 
