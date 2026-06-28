@@ -1,4 +1,4 @@
-# 🔒 Lock - Read - Only Lock for VS Code  #
+# 🔒 Lock - Read-Only Lock for VS Code  #
 
 **Stop accidentally editing files you shouldn't touch.**
 
