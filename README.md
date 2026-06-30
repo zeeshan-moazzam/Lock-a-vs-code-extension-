@@ -1,5 +1,5 @@
 # 🔒 Lock - Read-Only Lock for VS Code  #
-
+ 
 **Stop accidentally editing files you shouldn't touch.**
 
 Lock adds a one-click lock icon to your VS Code status bar. Click it to instantly freeze your editor into read-only mode. Click again to unlock. That's it.
