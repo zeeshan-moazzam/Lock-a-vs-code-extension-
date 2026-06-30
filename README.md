@@ -88,3 +88,5 @@ Pull requests are welcome.
 ## License
 
 MIT — free to use, modify, and distribute.
+
+<!-- docs: minor update -->
