@@ -18,6 +18,7 @@ Lock puts a **lock icon in the bottom-right corner** of your editor. One click l
 
 ---
 
+
 ## Features
 
 - **One-click toggle** — lock and unlock from the status bar
