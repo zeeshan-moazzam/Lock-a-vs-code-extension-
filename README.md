@@ -6,6 +6,8 @@ Lock adds a one-click lock icon to your VS Code status bar. Click it to instantl
 
 ---
 
+
+
 ## The Problem
 
 You open a config file, a `.env`, a production schema — just to *read* it. Five minutes later you've accidentally changed something and don't even know it. VS Code has no quick way to prevent this.
