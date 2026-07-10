@@ -5,7 +5,7 @@
 Lock adds a one-click lock icon to your VS Code status bar. Click it to instantly freeze your editor into read-only mode. Click again to unlock. That's it.
 
 ---
-## The problem is that 
+
 ## The Problem
 
 You open a config file, a `.env`, a production schema — just to *read* it. Five minutes later you've accidentally changed something and don't even know it. VS Code has no quick way to prevent this.
